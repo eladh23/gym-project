@@ -1,0 +1,128 @@
+[
+      {
+            "name": "Leg Press",
+            "machine_id": 1,
+            "difficulty_level": "Beginner",
+            "muscles_group": "Quadriceps"
+      },
+      {
+            "name": "Chest Press",
+            "machine_id": 2,
+            "difficulty_level": "Beginner",
+            "muscles_group": "Chest"
+      },
+      {
+            "name": "Lat Pulldown",
+            "machine_id": 3,
+            "difficulty_level": "Beginner",
+            "muscles_group": "Back"
+      },
+      {
+            "name": "Shoulder Press",
+            "machine_id": 4,
+            "difficulty_level": "Beginner",
+            "muscles_group": "Shoulders"
+      },
+      {
+            "name": "Seated Row",
+            "machine_id": 5,
+            "difficulty_level": "Intermediate",
+            "muscles_group": "Back"
+      },
+      {
+            "name": "Cable Crossover",
+            "machine_id": 6,
+            "difficulty_level": "Intermediate",
+            "muscles_group": "Chest"
+      },
+      {
+            "name": "Hack Squat",
+            "machine_id": 7,
+            "difficulty_level": "Intermediate",
+            "muscles_group": "Quadriceps"
+      },
+      {
+            "name": "Lateral Raise",
+            "machine_id": 8,
+            "difficulty_level": "Intermediate",
+            "muscles_group": "Shoulders"
+      },
+      {
+            "name": "Hammer Strength Chest Press",
+            "machine_id": 9,
+            "difficulty_level": "Advanced",
+            "muscles_group": "Chest"
+      },
+      {
+            "name": "Hammer Strength Leg Press",
+            "machine_id": 10,
+            "difficulty_level": "Advanced",
+            "muscles_group": "Quadriceps"
+      },
+      {
+            "name": "Smith Machine Squat",
+            "machine_id": 11,
+            "difficulty_level": "Advanced",
+            "muscles_group": "Quadriceps"
+      },
+      {
+            "name": "Smith Machine Bench Press",
+            "machine_id": 12,
+            "difficulty_level": "Advanced",
+            "muscles_group": "Chest"
+      },
+      {
+            "name": "Pull-Up Machine",
+            "machine_id": 13,
+            "difficulty_level": "Intermediate",
+            "muscles_group": "Back"
+      },
+      {
+            "name": "Assisted Dip Machine",
+            "machine_id": 14,
+            "difficulty_level": "Intermediate",
+            "muscles_group": "Triceps"
+      },
+      {
+            "name": "Incline Press Machine",
+            "machine_id": 15,
+            "difficulty_level": "Intermediate",
+            "muscles_group": "Chest"
+      },
+      {
+            "name": "Seated Leg Curl Machine",
+            "machine_id": 16,
+            "difficulty_level": "Intermediate",
+            "muscles_group": "Hamstrings"
+      },
+      {
+            "name": "Abdominal Crunch Machine",
+            "machine_id": 17,
+            "difficulty_level": "Beginner",
+            "muscles_group": "Abdominals"
+      },
+      {
+            "name": "Standing Calf Raise Machine",
+            "machine_id": 18,
+            "difficulty_level": "Intermediate",
+            "muscles_group": "Calves"
+      },
+      {
+            "name": "Biceps Curl Machine",
+            "machine_id": 19,
+            "difficulty_level": "Intermediate",
+            "muscles_group": "Biceps"
+      },
+      {
+            "name": "Triceps Extension Machine",
+            "machine_id": 20,
+            "difficulty_level": "Intermediate",
+            "muscles_group": "Triceps"
+      },
+      {
+            "name": "test1",
+            "machine_id": 21,
+            "difficulty_level": "test2",
+            "muscles_group": "teste3"
+      }
+]

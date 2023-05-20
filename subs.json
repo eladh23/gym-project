@@ -1,0 +1,37 @@
+[
+      {
+            "member_id": 1,
+            "subscription_type": "year",
+            "start_date": "2023-01-01"
+      },
+      {
+            "member_id": 2,
+            "subscription_type": "month",
+            "start_date": "2023-02-02"
+      },
+      {
+            "member_id": 3,
+            "subscription_type": "week",
+            "start_date": "2023-03-03"
+      },
+      {
+            "member_id": 4,
+            "subscription_type": "year",
+            "start_date": "2023-01-09"
+      },
+      {
+            "member_id": 5,
+            "subscription_type": "year",
+            "start_date": "2023-01-04"
+      },
+      {
+            "member_id": 6,
+            "subscription_type": "month",
+            "start_date": "2023-07-06"
+      },
+      {
+            "member_id": 7,
+            "subscription_type": "year",
+            "start_date": "2023-04-23"
+      }
+]
