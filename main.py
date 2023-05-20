@@ -57,4 +57,7 @@ while True:
             print("Thank you for using our GYM MENU .'Python Power Fitness', Goodbye!")
             break
       else: print("Invalid choice, please try again.")
+      print ("test"),print("second"),print("third")
+      
+
       
