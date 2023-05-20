@@ -63,3 +63,7 @@ if xxx < 10 :
       print("1")  
 else : 
       print("no")      
+     
+print ("test"),print("second"),print("third")      
+
+      
